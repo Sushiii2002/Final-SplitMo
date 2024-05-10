@@ -16,7 +16,7 @@ import CustomButton from '../../constants/buttons';
 import Button from '../../components/Button';
 
 
-function WelcomeScreen({ navigation }) { // Add navigation prop here
+function WelcomeScreen({ navigation }) { 
   return (
     <View style={styles.background}>
       <Image
